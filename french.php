@@ -31,10 +31,10 @@ $_lang["website.title"] = "ETS2MP - Monde virtuel du transport routier - mod mul
 $_lang["why.create.account"] = "Quels sont les avantages d'un compte ETS2MP ?<br />Avec un compte, vous serez apte à vous connecter dans toutes les parties du mod : le forum, le jeu et l'économie. Nous allons l'utiliser pour vous fournir prochainement un systeme d'économie et de statistiques personnelles. Vous pourrez editer votre profil si vous le voulez.";
 $_lang["cookies.warning"] = "Ce site utilise les <a href=\"http://fr.wikipedia.org/wiki/Cookie_(informatique)\">cookies</a>. En continuant de surfer sur le site, vous approuvez l'utilisation des cookies.";
 $_lang["forum"] = "Forum";
-$_lang["You cannot create new account while you are logged."] = "You cannot create new account while you are logged.";
-$_lang["You've been successfully registered."] = "You've been successfully registered.";
-$_lang["Unknown error"] = "Unknown error";
-$_lang["Username, mail or steamid is already taken."] = "Username, mail or steamid is already taken.";
+$_lang["You cannot create new account while you are logged."] = "Vous ne pouvez pas créer de compte en étant connecté";
+$_lang["You've been successfully registered."] = "Vous avez été enregistré avec succès !";
+$_lang["Unknown error"] = "Erreur inconnue";
+$_lang["Username, mail or steamid is already taken."] = "Ce nom de compte, ce mail ou cet ID Steam est déjà pris..";
 $_lang["E-Mail"] = "E-Mail";
-$_lang["To create ETS2MP account you must have ETS2 assigned to your steam account. If you have it in your steam library try to check if your profile is public. If it's private make it public and press"] = "To create ETS2MP account you must have ETS2 assigned to your steam account. If you have it in your steam library try to check if your profile is public. If it's private make it public and press";
-$_lang["To register you have to login to your steam account. Press button bellow to redirect to steam authentication website."] = "To register you have to login to your steam account. Press button bellow to redirect to steam authentication website.";
+$_lang["To create ETS2MP account you must have ETS2 assigned to your steam account. If you have it in your steam library try to check if your profile is public. If it's private make it public and press"] = "Pour créer un compte ETS2MP vous devez avoir ETS2 dans votre librairie de jeux Steam. Si vous l'avez, vérifiez que votre compte est public.";
+$_lang["To register you have to login to your steam account. Press button bellow to redirect to steam authentication website."] = "Pour vous enregistrer vous devez être connecté avec votre compte Steam. Cliquez sur le bouton ci-dessous pour vous connecter";
