@@ -8,7 +8,11 @@ How to translate?
 
 1. Create new file caller {language}.php for example: dutch.php
 2. Translate all messages to your langauge keep this format:
+```
  $_lang[key] = "message";
+```
+
+
 Remember: Do not change key. Change only "message".
 
 If you have more questions feel free to ask send them to me:
