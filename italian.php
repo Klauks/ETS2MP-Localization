@@ -38,3 +38,4 @@ $_lang["Username, mail or steamid is already taken."] = "Nome utente, email o St
 $_lang["E-Mail"] = "E-Mail";
 $_lang["To create ETS2MP account you must have ETS2 assigned to your steam account. If you have it in your steam library try to check if your profile is public. If it's private make it public and press"] = "Per creare un account di ETS2MP devi avere ETS2 nel tuo account di Steam. Se il gioco è nella tua libreria, controlla che il tuo profilo sia pubblico. Se è privato, rendilo pubblico";
 $_lang["To register you have to login to your steam account. Press button bellow to redirect to steam authentication website."] = "Per registrati devi effettuare l'accesso tramite il tuo account Steam. Premi il bottone in basso per essere re-indirizzato al sito di autenticazione di Steam.";
+$_lang["rules.info"] = "When you press register button you automatically accept our community rules. To check them click here.";

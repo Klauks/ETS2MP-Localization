@@ -31,7 +31,6 @@ $_lang["why.create.account"] = "Wieso einen Account erstellen?<br />Ein Account 
 $_lang["website.title"] = "ETS2MP - Virtual trucking world - Multiplayer Mod für den Euro Truck Simulator 2 by SCS Software";
 $_lang["cookies.warning"] = "Diese Seite nutzt <a href=\"http://en.wikipedia.org/wiki/HTTP_cookie\">Cookies</a>. Wenn Sie auf dieser Seite bleiben, erklären Sie sich mit der Nutzung von Cookies einverstanden.";
 $_lang["forum"] = "Forum";
-
 $_lang["You cannot create new account while you are logged."] = "Sie können keine neues Profil erstellen, solange Sie eingeloggt sind.";
 $_lang["You've been successfully registered."] = "Sie haben sich erfolgreich registriert.";
 $_lang["Unknown error"] = "Unbekannter Fehler";
@@ -39,3 +38,4 @@ $_lang["Username, mail or steamid is already taken."] = "Benutzername, E-Mail od
 $_lang["E-Mail"] = "E-Mail";
 $_lang["To create ETS2MP account you must have ETS2 assigned to your steam account. If you have it in your steam library try to check if your profile is public. If it's private make it public and press"] = "Um einen ETS2MP Account zu erstellen, muss ETS2 auf Steam aktiviert sein. Falls es in Ihrer Steam Bibliothek ist, versichern Sie sich, dass sie öffentlich ist. Falls sie privat ist, ändern Sie die Einstellungen bitte auf öffentlich.";
 $_lang["To register you have to login to your steam account. Press button bellow to redirect to steam authentication website."] = "Um sich zu registrieren, müssen Sie in Steam eingeloggt sein. Drücken Sie den Button, um zur Authentifizierung von Steam zu gelangen.";
+$_lang["rules.info"] = "When you press register button you automatically accept our community rules. To check them click here.";
