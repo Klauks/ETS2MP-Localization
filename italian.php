@@ -1,5 +1,5 @@
 <?php
-$_lang["Download"] = "Download";
+$_lang["Download"] = "Scarica";
 $_lang["Home"] = "Home";
 $_lang["Status"] = "Stato";
 $_lang["Username"] = "Username";
