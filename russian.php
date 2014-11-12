@@ -31,10 +31,10 @@ $_lang["why.create.account"] = "Зачем создавать аккаунт?<br
 $_lang["website.title"] = "ETS2MP - Виртуальный мир грузоперевозок - мод мультиплеера для игры Euro Truck Simulator 2 от компании SCS Software";
 $_lang["cookies.warning"] = "Сайт использует <a href=\"http://en.wikipedia.org/wiki/HTTP_cookie\">cookies(куки)</a>. Продолжая пользоваться сайтом, вы соглашаетесь на их использование.";
 $_lang["forum"] = "Форум";
-$_lang["You cannot create new account while you are logged."] = "You cannot create new account while you are logged.";
-$_lang["You've been successfully registered."] = "You've been successfully registered.";
-$_lang["Unknown error"] = "Unknown error";
-$_lang["Username, mail or steamid is already taken."] = "Username, mail or steamid is already taken.";
-$_lang["E-Mail"] = "E-Mail";
-$_lang["To create ETS2MP account you must have ETS2 assigned to your steam account. If you have it in your steam library try to check if your profile is public. If it's private make it public and press"] = "To create ETS2MP account you must have ETS2 assigned to your steam account. If you have it in your steam library try to check if your profile is public. If it's private make it public and press";
-$_lang["To register you have to login to your steam account. Press button bellow to redirect to steam authentication website."] = "To register you have to login to your steam account. Press button bellow to redirect to steam authentication website.";
+$_lang["You cannot create new account while you are logged."] = "Вы не можете создать новый аккаунт, когда вы уже вошли под своим именем";
+$_lang["You've been successfully registered."] = "Вы успешно зарегистрировались";
+$_lang["Unknown error"] = "Неизвестная ошибка";
+$_lang["Username, mail or steamid is already taken."] = "Ник, эл. почта или steamid уже использованы.";
+$_lang["E-Mail"] = "Эл. почта";
+$_lang["To create ETS2MP account you must have ETS2 assigned to your steam account. If you have it in your steam library try to check if your profile is public. If it's private make it public and press"] = "Для создания аккаунта ETS2MP вы должны иметь ETS2 в своей библиотеке Steam. Если игра у вас уже сть, то проверьте - ваш профиль Steam должен быть открытым. Если он закрытый, то сделайте его открытым и нажмите";
+$_lang["To register you have to login to your steam account. Press button bellow to redirect to steam authentication website."] = "Для регистрации Вам нужно зайти в ваш аккаунт Steam. Нажмите на кнопку ниже для перехода на сайт Steam.";
