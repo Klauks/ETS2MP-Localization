@@ -8,7 +8,7 @@ $_lang["login"] = "Zaloguj";
 $_lang["register"] = "Zarejestruj";
 $_lang["download.latest.version"] = "Pobierz najnowszą wersję";
 $_lang["current.release"] = "Aktualne wydanie:";
-$_lang["language"] = "Język:";
+$_lang["language"] = "Język";
 $_lang["join"] = "DOŁĄCZ";
 $_lang["mainpage.join"] = "Dołącz do tysiąca pasjonatów ciężarówek on-line!";
 $_lang["ts3.advertisement"] = "Interakcja głosowa z innymi kierowcami - kliknij aby dołączyć do serwera TS3.";
@@ -75,3 +75,5 @@ $_lang["too.short.password"] = "Nowe hasło jest za krótkie. Minimalnie 5 znak�
 $_lang["old.password.does.not.match"] = "Podane stare hasła nie zgadzają się.";
 $_lang["settings.saved"] = "Konto zostało zapisane.";
 $_lang["invalid.old.password"] = "Poprzednie hasło jest nieprawidłowe, nie można zapisać konta.";
+$_lang["no.password.change.forced"] = "Aby zresetować hasło należy być wylogowanym.";
+$_lang["password.reminder.edit.account"] = "Nie pamiętasz hasła? Kliknij <a href=\"index.php?page=resetPassword\">tutaj</a>.";

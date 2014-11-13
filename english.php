@@ -10,7 +10,7 @@ $_lang["download.latest.version"] = "Download latest version";
 $_lang["current.release"] = "Current release:";
 $_lang["language"] = "Language";
 $_lang["join"] = "JOIN";
-$_lang["mainpage.join"] = "Join thousands of truck enthusiasts on-line!";
+$_lang["mainpage.join"] = "Join thousands of truck enthusiasts online!";
 $_lang["ts3.advertisement"] = "Voice interaction with other drivers - click to join TS3 server.";
 $_lang["facebook.advertisement"] = "Latest news on our facebook.";
 $_lang["registration.blocked"] = "Registration is blocked - we are still working on some features that forced us to block registration. We will unlock it when we will do everything and we will be able to publish new version.";
@@ -75,3 +75,5 @@ $_lang["too.short.password"] = "New password is too short. Minimum: 5 characters
 $_lang["old.password.does.not.match"] = "Old password does not match.";
 $_lang["settings.saved"] = "Account has been saved.";
 $_lang["invalid.old.password"] = "Old password is invalid, unable to save acccount.";
+$_lang["no.password.change.forced"] = "To reset password you have to be logged out.";
+$_lang["password.reminder.edit.account"] = "Don't remember password? Click <a href=\"index.php?page=resetPassword\">here</a>.";
