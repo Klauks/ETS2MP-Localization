@@ -1,3 +1,7 @@
+IMPORTANT
+===================
+We've made some changes in translation files - please review your translation and make new poll request.
+
 ETS2MP Localization
 ===================
 
