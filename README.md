@@ -25,6 +25,6 @@ Remember: Do not change key. Change only "message".
 
 If you have more questions feel free to ask send them to me:
 
-rootkiller.programmer@gmail.com
+localization@ets2mp.com
 
 Have fun.
