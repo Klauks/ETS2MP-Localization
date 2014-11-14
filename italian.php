@@ -85,4 +85,4 @@ $_lang["contact.message.sent"] = "Grazie per averci contattato, risponderemo app
 $_lang["topic"] = "Argomento";
 $_lang["contact.message.too.short"] = "Il messaggio è troppo corto. Deve contenere minimo 10 caratteri.";
 $_lang["contact.topic.too.short"] = "L'argomento è troppo corto. Deve contenere minimo 10 caratteri.";
-$_lang["invalid.mail.forgot.password"] = "We are unable to find any account with this mail.";
+$_lang["invalid.mail.forgot.password"] = "Non è stato trovato nessun account valido con l'email inserita.";
