@@ -19,7 +19,6 @@ $_lang["already.logged"] = "Už ste prihlásený!";
 $_lang["welcome"] = "Vitajte";
 $_lang["logout"] = "Odhlásiť";
 $_lang["bans"] = "Bany";
-$_lang["download"] = "Stiahnuť";
 $_lang["version"] = "Verzia";
 $_lang["update.time"] = "Aktualizácia vydaná";
 $_lang["req.game.version"] = "Požadovaná verzia hry";

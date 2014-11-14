@@ -19,7 +19,6 @@ $_lang["already.logged"] = "Du bist bereits eingeloggt.";
 $_lang["welcome"] = "Willkommen";
 $_lang["logout"] = "Abmelden";
 $_lang["bans"] = "Bans";
-$_lang["download"] = "Download";
 $_lang["version"] = "Version";
 $_lang["update.time"] = "Updatezeit";
 $_lang["req.game.version"] = "Benötigte Spielversion";

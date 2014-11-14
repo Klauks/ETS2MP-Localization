@@ -19,7 +19,6 @@ $_lang["already.logged"] = "Zaten oturum açtınız.";
 $_lang["welcome"] = "Hoşgeldin";
 $_lang["logout"] = "Çıkış";
 $_lang["bans"] = "Ban";
-$_lang["download"] = "İndir";
 $_lang["version"] = "Sürüm";
 $_lang["update.time"] = "Güncelleme zamanı";
 $_lang["req.game.version"] = "Gerekli oyun sürümü";

@@ -19,7 +19,6 @@ $_lang["already.logged"] = "Je bent reeds ingelogd.";
 $_lang["welcome"] = "Welkom";
 $_lang["logout"] = "Uitloggen";
 $_lang["bans"] = "Bans";
-$_lang["download"] = "Downloaden";
 $_lang["version"] = "Versie";
 $_lang["update.time"] = "Laatst geupdate";
 $_lang["req.game.version"] = "Vereiste spel-versie";

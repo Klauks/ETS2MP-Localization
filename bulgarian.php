@@ -19,7 +19,6 @@ $_lang["already.logged"] = "Вече сте влезли.";
 $_lang["welcome"] = "Добре дошли";
 $_lang["logout"] = "Изход";
 $_lang["bans"] = "Наказания";
-$_lang["download"] = "Изтегли";
 $_lang["version"] = "Версия";
 $_lang["update.time"] = "Време за обновяване";
 $_lang["req.game.version"] = "Изисквана версия на играта:";
