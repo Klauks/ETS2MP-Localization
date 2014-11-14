@@ -1,4 +1,4 @@
-+<?php
+<?php
 $_lang["Download"] = "Tõmba alla";
 $_lang["Home"] = "Avaleht";
 $_lang["Status"] = "Staatus";
