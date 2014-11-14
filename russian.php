@@ -77,3 +77,11 @@ $_lang["settings.saved"] = "Настройки Вашей учетной зап�
 $_lang["invalid.old.password"] = "Неверно введен старый апроль. Невозможно сохранить настройки учетной записи.";
 $_lang["no.password.change.forced"] = "Для сброса пароля Вы должны выйти из своей учетной записи.";
 $_lang["password.reminder.edit.account"] = "Не помните пароль? Нажмите <a href=\"index.php?page=resetPassword\">здесь</a>.";
+$_lang["contact"] = "Contact";
+$_lang["your.mail"] = "Your e-mail";
+$_lang["content"] = "Content";
+$_lang["send"] = "Send";
+$_lang["contact.message.sent"] = "Thank you for contacting us. Please wait for reply.";
+$_lang["topic"] = "Topic";
+$_lang["contact.message.too.short"] = "Message is too short. Minimum 10 characters.";
+$_lang["contact.topic.too.short"] = "Topic is too short. Minimum 10 characters.";
