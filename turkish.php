@@ -85,3 +85,4 @@ $_lang["contact.message.sent"] = "Bize ulaştığınız için teşekkür ederiz.
 $_lang["topic"] = "Konu";
 $_lang["contact.message.too.short"] = "Mesajınız çok kısa. En az 10 karakter olmalı.";
 $_lang["contact.topic.too.short"] = "Konu çok kısa. En az 10 karakter olmalı.";
+$_lang["invalid.mail.forgot.password"] = "We are unable to find any account with this mail.";
