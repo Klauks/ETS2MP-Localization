@@ -85,3 +85,4 @@ $_lang["contact.message.sent"] = "Ďakujeme že ste nás kontaktovali. Prosím p
 $_lang["topic"] = "Téma";
 $_lang["contact.message.too.short"] = "Správa je príliš krátka. Musí obsahovať minimálne 10 znakov.";
 $_lang["contact.topic.too.short"] = "Názov témy je príliš krátky. Použite minimálne 10 znakov.";
+$_lang["error.cannot.fetch.steam.api"] = "Cannot get your steam profile data from steam. Try again later.";

@@ -85,3 +85,4 @@ $_lang["topic"] = "Тема";
 $_lang["contact.message.too.short"] = "Съобщението е твърде късо. Минимум 10 символа.";
 $_lang["contact.topic.too.short"] = "Темата е твърде къса. Минимум 10 символа.";
 $_lang["invalid.mail.forgot.password"] = "Ние не можем да намерим профил свързан с тази Е-Поща.";
+$_lang["error.cannot.fetch.steam.api"] = "Cannot get your steam profile data from steam. Try again later.";

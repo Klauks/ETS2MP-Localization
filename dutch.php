@@ -83,3 +83,4 @@ $_lang["contact.message.sent"] = "Thank you for contacting us. Please wait for r
 $_lang["topic"] = "Topic";
 $_lang["contact.message.too.short"] = "Message is too short. Minimum 10 characters.";
 $_lang["contact.topic.too.short"] = "Topic is too short. Minimum 10 characters.";
+$_lang["error.cannot.fetch.steam.api"] = "Cannot get your steam profile data from steam. Try again later.";

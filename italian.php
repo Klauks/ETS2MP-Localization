@@ -85,3 +85,4 @@ $_lang["topic"] = "Argomento";
 $_lang["contact.message.too.short"] = "Il messaggio è troppo corto. Deve contenere minimo 10 caratteri.";
 $_lang["contact.topic.too.short"] = "L'argomento è troppo corto. Deve contenere minimo 10 caratteri.";
 $_lang["invalid.mail.forgot.password"] = "Non è stato trovato nessun account valido con l'email inserita.";
+$_lang["error.cannot.fetch.steam.api"] = "Cannot get your steam profile data from steam. Try again later.";

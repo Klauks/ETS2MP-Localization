@@ -85,3 +85,4 @@ $_lang["topic"] = "Temat";
 $_lang["contact.message.too.short"] = "Wiadomość jest za krótka. Minimalnie 10 znaków.";
 $_lang["contact.topic.too.short"] = "Temat jest zbyt krótki. Minimalnie 10 znaków.";
 $_lang["invalid.mail.forgot.password"] = "Nie udało się znaleźć konta według podanego adresu e-mail.";
+$_lang["error.cannot.fetch.steam.api"] = "Nie udało się danych na temat twojego profilu z api steam. Spróbuj ponownie później.";
