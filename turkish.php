@@ -85,4 +85,4 @@ $_lang["topic"] = "Konu";
 $_lang["contact.message.too.short"] = "Mesajınız çok kısa. En az 10 karakter olmalı.";
 $_lang["contact.topic.too.short"] = "Konu çok kısa. En az 10 karakter olmalı.";
 $_lang["invalid.mail.forgot.password"] = "Bu mail ile bağlantılı herhangi bir hesap bulunamadı.";
-$_lang["error.cannot.fetch.steam.api"] = "Cannot get your steam profile data from steam. Try again later.";
+$_lang["error.cannot.fetch.steam.api"] = "Steam profil verileri alınamıyor. Daha sonra yeniden deneyin.";
